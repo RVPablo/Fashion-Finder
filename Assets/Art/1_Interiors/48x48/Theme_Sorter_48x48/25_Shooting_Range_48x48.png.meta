@@ -67,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -81,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -105,7 +105,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -382,7 +382,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      25_Shooting_Range_48x48_0: 9189438611869223619
+      25_Shooting_Range_48x48_1: 1376689328428335002
+      25_Shooting_Range_48x48_10: -5121349687206693821
+      25_Shooting_Range_48x48_2: -4032363524198159913
+      25_Shooting_Range_48x48_3: -7676768332757810891
+      25_Shooting_Range_48x48_4: 1221881627297418643
+      25_Shooting_Range_48x48_5: 5584338666309686620
+      25_Shooting_Range_48x48_6: -4458479226261259699
+      25_Shooting_Range_48x48_7: -1296930813711939641
+      25_Shooting_Range_48x48_8: 7609403776696693833
+      25_Shooting_Range_48x48_9: -157256136396722173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
