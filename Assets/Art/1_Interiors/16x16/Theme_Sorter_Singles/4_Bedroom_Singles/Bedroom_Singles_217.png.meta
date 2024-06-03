@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bedroom_Singles_217_0: -5745113585430861794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

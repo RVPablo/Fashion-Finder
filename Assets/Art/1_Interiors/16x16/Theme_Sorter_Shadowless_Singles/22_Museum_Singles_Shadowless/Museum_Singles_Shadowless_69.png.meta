@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Museum_Singles_Shadowless_69_0: -8947964665271551412
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

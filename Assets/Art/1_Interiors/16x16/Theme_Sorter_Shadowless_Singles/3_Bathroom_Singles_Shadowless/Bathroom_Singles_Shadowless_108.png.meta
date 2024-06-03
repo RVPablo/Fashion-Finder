@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bathroom_Singles_Shadowless_108_0: 1796791842649229701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

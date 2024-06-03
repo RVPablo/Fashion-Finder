@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_jail_locker_empty_48x48_0: 7579720679217104991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hospital_Singles_Shadowless_148_0: 6084169194171774516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

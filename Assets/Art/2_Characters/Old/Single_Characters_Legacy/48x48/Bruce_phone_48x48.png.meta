@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bruce_phone_48x48_0: -8053398323246294832
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

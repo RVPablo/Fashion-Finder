@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Living_Room_Singles_Shadowless_107_0: -5412397680802365478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

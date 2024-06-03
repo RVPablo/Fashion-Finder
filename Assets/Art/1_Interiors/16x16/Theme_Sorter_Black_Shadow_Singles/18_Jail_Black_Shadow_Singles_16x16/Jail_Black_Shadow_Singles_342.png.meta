@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jail_Black_Shadow_Singles_342_0: 1638205591675903142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

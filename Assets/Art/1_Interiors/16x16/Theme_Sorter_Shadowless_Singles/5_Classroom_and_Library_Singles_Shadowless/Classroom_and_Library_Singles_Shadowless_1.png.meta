@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Classroom_and_Library_Singles_Shadowless_1_0: 6403810123137492420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

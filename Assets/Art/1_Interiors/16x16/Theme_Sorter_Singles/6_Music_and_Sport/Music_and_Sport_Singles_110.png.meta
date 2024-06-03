@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Music_and_Sport_Singles_110_0: -8177287735998171662
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

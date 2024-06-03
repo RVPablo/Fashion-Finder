@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Japanese_Interiors_Black_Shadow_Singles_125_0: -2796982803163052126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

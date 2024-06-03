@@ -157,7 +157,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cleaner_boy_clean_48x48_0: -1055133366548125658
+      Cleaner_boy_clean_48x48_1: -1450838510777870945
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

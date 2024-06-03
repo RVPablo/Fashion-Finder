@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Condominium_Black_Shadow_Singles_71_0: 7479894138117167368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

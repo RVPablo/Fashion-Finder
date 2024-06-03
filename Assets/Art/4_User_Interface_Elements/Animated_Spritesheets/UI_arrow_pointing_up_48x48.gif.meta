@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_arrow_pointing_up_48x48_0: 6654789121658536713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

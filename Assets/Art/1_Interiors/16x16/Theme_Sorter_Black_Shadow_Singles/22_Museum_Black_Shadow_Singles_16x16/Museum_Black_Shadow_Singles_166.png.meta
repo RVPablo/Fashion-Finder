@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Museum_Black_Shadow_Singles_166_0: 1973130871748377791
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

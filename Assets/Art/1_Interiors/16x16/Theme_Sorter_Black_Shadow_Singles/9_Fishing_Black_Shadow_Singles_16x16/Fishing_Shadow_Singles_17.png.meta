@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fishing_Shadow_Singles_17_0: -6162876983809331395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

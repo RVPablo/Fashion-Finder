@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shooting_Range_Singles_03_0: 6871122748820721518
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Christmas_SIngles_120_0: -2569889458133801495
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

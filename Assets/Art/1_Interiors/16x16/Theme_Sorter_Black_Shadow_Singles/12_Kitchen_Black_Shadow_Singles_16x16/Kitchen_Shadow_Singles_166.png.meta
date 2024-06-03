@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kitchen_Shadow_Singles_166_0: -2979881876659939956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

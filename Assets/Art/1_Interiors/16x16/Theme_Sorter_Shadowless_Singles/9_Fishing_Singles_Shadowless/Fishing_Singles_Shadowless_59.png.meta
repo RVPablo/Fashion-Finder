@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fishing_Singles_Shadowless_59_0: -6804788873304358152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

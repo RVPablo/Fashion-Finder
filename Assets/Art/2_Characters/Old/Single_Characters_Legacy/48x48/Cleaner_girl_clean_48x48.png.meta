@@ -157,7 +157,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cleaner_girl_clean_48x48_0: 2496072801516935746
+      Cleaner_girl_clean_48x48_1: -1587619424532539099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

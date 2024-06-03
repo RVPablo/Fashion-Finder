@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      palette_interiors_0: 3492020882954299349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

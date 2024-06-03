@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Museum_Singles_150_0: 627785162165417318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

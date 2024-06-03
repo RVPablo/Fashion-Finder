@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Art_Shadow_Singles_35_0: -9207356848125128928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

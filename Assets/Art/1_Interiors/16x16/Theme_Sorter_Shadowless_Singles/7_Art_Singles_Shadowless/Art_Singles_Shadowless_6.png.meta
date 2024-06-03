@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Art_Singles_Shadowless_6_0: 7851256035362369994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

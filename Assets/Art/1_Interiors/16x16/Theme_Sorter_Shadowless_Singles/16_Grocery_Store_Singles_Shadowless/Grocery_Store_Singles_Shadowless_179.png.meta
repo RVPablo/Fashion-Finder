@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grocery_Store_Singles_Shadowless_179_0: 1769961220503057067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

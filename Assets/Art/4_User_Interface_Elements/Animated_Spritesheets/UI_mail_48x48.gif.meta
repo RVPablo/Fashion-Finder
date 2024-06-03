@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI_mail_48x48_0: -803893597224539439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kitchen_Singles_Shadowless_367_0: 133403745531226099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

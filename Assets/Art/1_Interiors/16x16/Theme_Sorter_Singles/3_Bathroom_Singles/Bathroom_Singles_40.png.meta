@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bathroom_Singles_40_0: 7086051375776854187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_door_big_1_locked_48x48_0: -6774256688433393684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

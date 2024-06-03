@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hospital_Black_Shadow_Singles_381_0: -2981449245952283222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

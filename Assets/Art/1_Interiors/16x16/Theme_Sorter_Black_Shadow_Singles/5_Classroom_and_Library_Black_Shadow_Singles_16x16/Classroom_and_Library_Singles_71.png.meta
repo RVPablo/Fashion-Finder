@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Classroom_and_Library_Singles_71_0: -4031382154839106893
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
