@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 895
       height: 622
-    spriteID: 46fd43f23df019647aac7309afb67c96
+    spriteID: 52ab007592c4bcc4784ec15ade63a472
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 634
       width: 895
       height: 622
-    spriteID: c68cb8fdc433f3f4caa056c02461f9d9
+    spriteID: db47ae666a57fd3458b86c835b771d98
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1264
       width: 895
       height: 622
-    spriteID: 854625d72b2957a42ae025b74dd026a1
+    spriteID: 1d2cc4937045e3f4d95929ba1d7365e3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 4
       width: 895
       height: 624
-    spriteID: 46f196cfb8a651049a79bc8fa8accceb
+    spriteID: 81f99a60c596cf94796599fa9e7c8cc1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 636
       width: 895
       height: 624
-    spriteID: 7f24712ce8275ba47bbb255f971af3c8
+    spriteID: ab0ce869cf380f04896e0f7c7ca7ee56
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -239,7 +239,7 @@ ScriptedImporter:
       y: 1268
       width: 895
       height: 624
-    spriteID: b92c975d0afeab144b9479cb16bb23ee
+    spriteID: 287845c4dd5fbc54d8a185e7264b5866
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -265,7 +265,7 @@ ScriptedImporter:
         y: 27
         width: 895
         height: 622
-      spriteId: 46fd43f23df019647aac7309afb67c96
+      spriteId: 52ab007592c4bcc4784ec15ade63a472
     - name: Accessory_06_Policeman_Hat_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -274,7 +274,7 @@ ScriptedImporter:
         y: 27
         width: 895
         height: 622
-      spriteId: c68cb8fdc433f3f4caa056c02461f9d9
+      spriteId: db47ae666a57fd3458b86c835b771d98
     - name: Accessory_06_Policeman_Hat_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -283,7 +283,7 @@ ScriptedImporter:
         y: 27
         width: 895
         height: 622
-      spriteId: 854625d72b2957a42ae025b74dd026a1
+      spriteId: 1d2cc4937045e3f4d95929ba1d7365e3
     - name: Accessory_06_Policeman_Hat_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -292,7 +292,7 @@ ScriptedImporter:
         y: 25
         width: 895
         height: 624
-      spriteId: 46f196cfb8a651049a79bc8fa8accceb
+      spriteId: 81f99a60c596cf94796599fa9e7c8cc1
     - name: Accessory_06_Policeman_Hat_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -301,7 +301,7 @@ ScriptedImporter:
         y: 25
         width: 895
         height: 624
-      spriteId: 7f24712ce8275ba47bbb255f971af3c8
+      spriteId: ab0ce869cf380f04896e0f7c7ca7ee56
     - name: Accessory_06_Policeman_Hat_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
@@ -310,7 +310,7 @@ ScriptedImporter:
         y: 25
         width: 895
         height: 624
-      spriteId: b92c975d0afeab144b9479cb16bb23ee
+      spriteId: 287845c4dd5fbc54d8a185e7264b5866
     linkedCells: []
     parentIndex: -1
   platformSettings: []

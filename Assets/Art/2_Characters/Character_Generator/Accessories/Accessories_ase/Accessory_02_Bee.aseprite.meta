@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 896
       height: 631
-    spriteID: 13c7ae2ccab632c4abcbfbc750b911ed
+    spriteID: cd1aa8149f9b9724fa9518ce53677068
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 643
       width: 896
       height: 631
-    spriteID: 27e59a71510074f45b4fcc7f67f49877
+    spriteID: ffdd5c53701f68b44b66097e81d92c7c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1282
       width: 896
       height: 631
-    spriteID: ab97c8d0f4623c849872d5e56d2fac4c
+    spriteID: 50a641c547cb63044a5b9c515d9265e6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +202,7 @@ ScriptedImporter:
         y: 18
         width: 896
         height: 631
-      spriteId: 13c7ae2ccab632c4abcbfbc750b911ed
+      spriteId: cd1aa8149f9b9724fa9518ce53677068
     - name: Accessory_02_Bee_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -211,7 +211,7 @@ ScriptedImporter:
         y: 18
         width: 896
         height: 631
-      spriteId: 27e59a71510074f45b4fcc7f67f49877
+      spriteId: ffdd5c53701f68b44b66097e81d92c7c
     - name: Accessory_02_Bee_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -220,7 +220,7 @@ ScriptedImporter:
         y: 18
         width: 896
         height: 631
-      spriteId: ab97c8d0f4623c849872d5e56d2fac4c
+      spriteId: 50a641c547cb63044a5b9c515d9265e6
     linkedCells: []
     parentIndex: -1
   platformSettings: []

@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 884
       height: 616
-    spriteID: 00bf14377e6e9804298dcce3df8b3ed7
+    spriteID: a3e95f6e088c5e647a37187227ddd5a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 628
       width: 884
       height: 616
-    spriteID: 74c55917b848d8f4e98c9fd8f6ff2c78
+    spriteID: 04f71da33bd30854cae16839a3a83fa7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1252
       width: 884
       height: 616
-    spriteID: 64f5f05167c0f3d4081e2eec94eb2d93
+    spriteID: b27a59f86d7ec9c4aaf9f97562c58236
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +202,7 @@ ScriptedImporter:
         y: 21
         width: 884
         height: 616
-      spriteId: 00bf14377e6e9804298dcce3df8b3ed7
+      spriteId: a3e95f6e088c5e647a37187227ddd5a0
     - name: Accessory_16_Monocle_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -211,7 +211,7 @@ ScriptedImporter:
         y: 21
         width: 884
         height: 616
-      spriteId: 74c55917b848d8f4e98c9fd8f6ff2c78
+      spriteId: 04f71da33bd30854cae16839a3a83fa7
     - name: Accessory_16_Monocle_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -220,7 +220,7 @@ ScriptedImporter:
         y: 21
         width: 884
         height: 616
-      spriteId: 64f5f05167c0f3d4081e2eec94eb2d93
+      spriteId: b27a59f86d7ec9c4aaf9f97562c58236
     linkedCells: []
     parentIndex: -1
   platformSettings: []

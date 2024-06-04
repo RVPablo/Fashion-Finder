@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 383
       height: 108
-    spriteID: 960d1675ff102ef43b103121d87e429d
+    spriteID: 74e5f8801a0a55d449cd1f58af3c0c9b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 120
       width: 383
       height: 108
-    spriteID: 1a3b8214afa73714db1ed41d419e177a
+    spriteID: bd6be07dd8aa6a24299ad24a0e47c301
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 236
       width: 383
       height: 108
-    spriteID: 05f8722ad654f2b4f9376a4eb862e37f
+    spriteID: c65e888f2d11bed4687e5dc1d5daac7b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 352
       width: 383
       height: 108
-    spriteID: c3502ef9067a20741ad129fbc6e9ed98
+    spriteID: 1aebc92043135204b92e9815a3a13fdd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 468
       width: 383
       height: 108
-    spriteID: 849f348d93519ba458405bc78a5dbf6f
+    spriteID: 18355972925f17a4e8ac6c9d63f94b90
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -244,7 +244,7 @@ ScriptedImporter:
         y: 7
         width: 383
         height: 108
-      spriteId: 960d1675ff102ef43b103121d87e429d
+      spriteId: 74e5f8801a0a55d449cd1f58af3c0c9b
     - name: Hairstyle_kid_1_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -253,7 +253,7 @@ ScriptedImporter:
         y: 7
         width: 383
         height: 108
-      spriteId: 1a3b8214afa73714db1ed41d419e177a
+      spriteId: bd6be07dd8aa6a24299ad24a0e47c301
     - name: Hairstyle_kid_1_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -262,7 +262,7 @@ ScriptedImporter:
         y: 7
         width: 383
         height: 108
-      spriteId: 05f8722ad654f2b4f9376a4eb862e37f
+      spriteId: c65e888f2d11bed4687e5dc1d5daac7b
     - name: Hairstyle_kid_1_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -271,7 +271,7 @@ ScriptedImporter:
         y: 7
         width: 383
         height: 108
-      spriteId: c3502ef9067a20741ad129fbc6e9ed98
+      spriteId: 1aebc92043135204b92e9815a3a13fdd
     - name: Hairstyle_kid_1_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -280,7 +280,7 @@ ScriptedImporter:
         y: 7
         width: 383
         height: 108
-      spriteId: 849f348d93519ba458405bc78a5dbf6f
+      spriteId: 18355972925f17a4e8ac6c9d63f94b90
     linkedCells: []
     parentIndex: -1
   platformSettings: []

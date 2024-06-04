@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 892
       height: 615
-    spriteID: 4552c20ab0fdc4341bd9f9547f21690e
+    spriteID: bbaf3df963d7dec44abb385cef9aaa07
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 627
       width: 892
       height: 615
-    spriteID: 7d2cc8bd8d30bf141884239d85ea8520
+    spriteID: c0a1243cb7aa1794ba0173b514b456a7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1250
       width: 892
       height: 615
-    spriteID: 661c21ba4cfec1143870d888d5cfa742
+    spriteID: f89896de116e02748ae202c200b73483
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 1873
       width: 892
       height: 615
-    spriteID: a71d46b51b8f25f44aa966b913833999
+    spriteID: 27c3426e24c6512418c0beeb65557ba8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 2496
       width: 892
       height: 615
-    spriteID: 9825b3cf20275b54b93be86173c337f2
+    spriteID: 746a3e05f0d905f47af9acab13317c43
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -239,7 +239,7 @@ ScriptedImporter:
       y: 3119
       width: 892
       height: 615
-    spriteID: b5e94b303476f6747a0039ae3b88d203
+    spriteID: fcfde6558bb0dea498306984eb821d4d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -260,7 +260,7 @@ ScriptedImporter:
       y: 4
       width: 892
       height: 615
-    spriteID: b2a91d083640bc343ac3ea5602fc2e2a
+    spriteID: 8940783516f4286439f6aca03c18f68b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
       y: 627
       width: 892
       height: 615
-    spriteID: 0d612834d719def4284e377c47dc7084
+    spriteID: 309b2a41e37830c44a766cd1688cac47
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -302,7 +302,7 @@ ScriptedImporter:
       y: 1250
       width: 892
       height: 615
-    spriteID: 35037debc3a04f843b185012aa5fec74
+    spriteID: c728121787cf0f64a98233c5997ba51b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -323,7 +323,7 @@ ScriptedImporter:
       y: 1873
       width: 892
       height: 615
-    spriteID: 2d58835ab9abc7f4ab217860450cd58d
+    spriteID: 63bb65696ab6c9b46be8d14cb92f5399
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -349,7 +349,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: 4552c20ab0fdc4341bd9f9547f21690e
+      spriteId: bbaf3df963d7dec44abb385cef9aaa07
     - name: Accessory_03_Backpacks_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -358,7 +358,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: 7d2cc8bd8d30bf141884239d85ea8520
+      spriteId: c0a1243cb7aa1794ba0173b514b456a7
     - name: Accessory_03_Backpacks_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -367,7 +367,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: 661c21ba4cfec1143870d888d5cfa742
+      spriteId: f89896de116e02748ae202c200b73483
     - name: Accessory_03_Backpacks_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -376,7 +376,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: a71d46b51b8f25f44aa966b913833999
+      spriteId: 27c3426e24c6512418c0beeb65557ba8
     - name: Accessory_03_Backpacks_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -385,7 +385,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: 9825b3cf20275b54b93be86173c337f2
+      spriteId: 746a3e05f0d905f47af9acab13317c43
     - name: Accessory_03_Backpacks_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
@@ -394,7 +394,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: b5e94b303476f6747a0039ae3b88d203
+      spriteId: fcfde6558bb0dea498306984eb821d4d
     - name: Accessory_03_Backpacks_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
@@ -403,7 +403,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: b2a91d083640bc343ac3ea5602fc2e2a
+      spriteId: 8940783516f4286439f6aca03c18f68b
     - name: Accessory_03_Backpacks_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
@@ -412,7 +412,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: 0d612834d719def4284e377c47dc7084
+      spriteId: 309b2a41e37830c44a766cd1688cac47
     - name: Accessory_03_Backpacks_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
@@ -421,7 +421,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: 35037debc3a04f843b185012aa5fec74
+      spriteId: c728121787cf0f64a98233c5997ba51b
     - name: Accessory_03_Backpacks_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
@@ -430,7 +430,7 @@ ScriptedImporter:
         y: 18
         width: 892
         height: 615
-      spriteId: 2d58835ab9abc7f4ab217860450cd58d
+      spriteId: 63bb65696ab6c9b46be8d14cb92f5399
     linkedCells: []
     parentIndex: -1
   platformSettings: []

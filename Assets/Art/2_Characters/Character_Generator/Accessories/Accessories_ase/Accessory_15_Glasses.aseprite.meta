@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 890
       height: 613
-    spriteID: 07d3f2ef51d0d0b4e9d1ba6d49156f34
+    spriteID: c289cead0b4a37a4389ce2a79f63b163
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 625
       width: 890
       height: 613
-    spriteID: 749f7e33cc4c6bd438b612a386ddb54a
+    spriteID: 90d7dc36c6e8c2a4290f0083d3498c0e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1246
       width: 890
       height: 613
-    spriteID: 262944b0a0437a449bff3debc185d295
+    spriteID: b22c2b5c76564b942a3673bb9f21c0d1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 4
       width: 890
       height: 613
-    spriteID: 4b29ce94ecbeffb4582aac33255fe6cd
+    spriteID: abfd8ca2d0295f84bb8410182ed9e424
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 625
       width: 890
       height: 613
-    spriteID: 93411553494d2fe45a4ec51b3f90e95d
+    spriteID: 949a33039436fc84f8062ac19ac4f30b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -239,7 +239,7 @@ ScriptedImporter:
       y: 1246
       width: 890
       height: 612
-    spriteID: 6b98fd7fcbc3738458ba0eade336d1b4
+    spriteID: 580a95bad4b8ddb43a8f8c29ff87c31d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -265,7 +265,7 @@ ScriptedImporter:
         y: 24
         width: 890
         height: 613
-      spriteId: 07d3f2ef51d0d0b4e9d1ba6d49156f34
+      spriteId: c289cead0b4a37a4389ce2a79f63b163
     - name: Accessory_15_Glasses_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -274,7 +274,7 @@ ScriptedImporter:
         y: 24
         width: 890
         height: 613
-      spriteId: 749f7e33cc4c6bd438b612a386ddb54a
+      spriteId: 90d7dc36c6e8c2a4290f0083d3498c0e
     - name: Accessory_15_Glasses_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -283,7 +283,7 @@ ScriptedImporter:
         y: 24
         width: 890
         height: 613
-      spriteId: 262944b0a0437a449bff3debc185d295
+      spriteId: b22c2b5c76564b942a3673bb9f21c0d1
     - name: Accessory_15_Glasses_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -292,7 +292,7 @@ ScriptedImporter:
         y: 24
         width: 890
         height: 613
-      spriteId: 4b29ce94ecbeffb4582aac33255fe6cd
+      spriteId: abfd8ca2d0295f84bb8410182ed9e424
     - name: Accessory_15_Glasses_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -301,7 +301,7 @@ ScriptedImporter:
         y: 24
         width: 890
         height: 613
-      spriteId: 93411553494d2fe45a4ec51b3f90e95d
+      spriteId: 949a33039436fc84f8062ac19ac4f30b
     - name: Accessory_15_Glasses_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
@@ -310,7 +310,7 @@ ScriptedImporter:
         y: 25
         width: 890
         height: 612
-      spriteId: 6b98fd7fcbc3738458ba0eade336d1b4
+      spriteId: 580a95bad4b8ddb43a8f8c29ff87c31d
     linkedCells: []
     parentIndex: -1
   platformSettings: []

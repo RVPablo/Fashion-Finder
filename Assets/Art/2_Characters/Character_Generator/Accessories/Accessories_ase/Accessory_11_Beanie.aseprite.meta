@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 896
       height: 622
-    spriteID: c87ebff9865ff114e951004a65485fa7
+    spriteID: 9f308749c9552c44ab9345c5258edf13
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 634
       width: 896
       height: 622
-    spriteID: 196c8d4a7ffeb4345962cc320df8d007
+    spriteID: e99a21d8e74a4394bb21354a4837cece
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1264
       width: 896
       height: 622
-    spriteID: 209fe5a870952734b883ae8572700fca
+    spriteID: a8d09249c7bdb084caa996e49041906c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 4
       width: 896
       height: 622
-    spriteID: 073e7989d147039458dd13df4569fab7
+    spriteID: 6dfd8c7031f61cc43837bc766a37547c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 634
       width: 896
       height: 622
-    spriteID: 40a18e29c72f15a45883e05677a74690
+    spriteID: c5c8f8969efc9004cabafacb329bbd04
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -244,7 +244,7 @@ ScriptedImporter:
         y: 26
         width: 896
         height: 622
-      spriteId: c87ebff9865ff114e951004a65485fa7
+      spriteId: 9f308749c9552c44ab9345c5258edf13
     - name: Accessory_11_Beanie_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -253,7 +253,7 @@ ScriptedImporter:
         y: 26
         width: 896
         height: 622
-      spriteId: 196c8d4a7ffeb4345962cc320df8d007
+      spriteId: e99a21d8e74a4394bb21354a4837cece
     - name: Accessory_11_Beanie_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -262,7 +262,7 @@ ScriptedImporter:
         y: 26
         width: 896
         height: 622
-      spriteId: 209fe5a870952734b883ae8572700fca
+      spriteId: a8d09249c7bdb084caa996e49041906c
     - name: Accessory_11_Beanie_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -271,7 +271,7 @@ ScriptedImporter:
         y: 26
         width: 896
         height: 622
-      spriteId: 073e7989d147039458dd13df4569fab7
+      spriteId: 6dfd8c7031f61cc43837bc766a37547c
     - name: Accessory_11_Beanie_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -280,7 +280,7 @@ ScriptedImporter:
         y: 26
         width: 896
         height: 622
-      spriteId: 40a18e29c72f15a45883e05677a74690
+      spriteId: c5c8f8969efc9004cabafacb329bbd04
     linkedCells: []
     parentIndex: -1
   platformSettings: []

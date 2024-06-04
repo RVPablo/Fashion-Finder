@@ -2,6 +2,8 @@ using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
 
 public class GridBasedMovement : MonoBehaviour
 {
@@ -21,6 +23,8 @@ public class GridBasedMovement : MonoBehaviour
 
     public InputSystem_Actions playerControls;
     private InputAction move;
+
+    public PlayerData playerData;
 
     private void Awake()
     {
@@ -107,5 +111,12 @@ public class GridBasedMovement : MonoBehaviour
         {
             if (isWalking) isWalking = false; anim.SetBool("IsWalking", false);
         }
+    }
+
+    public void ResetData()
+    {
+        playerData.newPos = null;
+        playerData.legs = null;
+        playerData.torso = null;
     }
 }
