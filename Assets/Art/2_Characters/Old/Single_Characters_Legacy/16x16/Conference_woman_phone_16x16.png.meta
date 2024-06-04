@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_woman_phone_16x16_0: -6159106851315615390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

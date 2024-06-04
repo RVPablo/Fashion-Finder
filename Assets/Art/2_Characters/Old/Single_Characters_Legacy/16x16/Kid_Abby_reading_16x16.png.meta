@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kid_Abby_reading_16x16_0: 1984743036353511565
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

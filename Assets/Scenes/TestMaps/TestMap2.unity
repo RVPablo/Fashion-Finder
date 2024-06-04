@@ -353,6 +353,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: SceneTransition
       objectReference: {fileID: 0}
+    - target: {fileID: 7228849507367309139, guid: 0d4698d68ff39ff43aee5ee31c5bfb5d, type: 3}
+      propertyPath: name
+      value: Test2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7273077566326355461, guid: 0d4698d68ff39ff43aee5ee31c5bfb5d, type: 3}
+      propertyPath: SceneName
+      value: TestMap1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7273077566326355461, guid: 0d4698d68ff39ff43aee5ee31c5bfb5d, type: 3}
+      propertyPath: spawnName
+      value: Test1
+      objectReference: {fileID: 0}
     - target: {fileID: 8050248538211999210, guid: 0d4698d68ff39ff43aee5ee31c5bfb5d, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.5
@@ -465,6 +477,14 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 2056460366}
+    - target: {fileID: 7343342737822934046, guid: bbba1b4d09b70624a9b3c26920f27859, type: 3}
+      propertyPath: startPos.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7343342737822934046, guid: bbba1b4d09b70624a9b3c26920f27859, type: 3}
+      propertyPath: spawnPoint.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7343342737822934046, guid: bbba1b4d09b70624a9b3c26920f27859, type: 3}
       propertyPath: 'startPos.Array.data[0]'
       value: 

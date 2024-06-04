@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Accessory_12_Mustache_01_0: 1684121538023762369
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

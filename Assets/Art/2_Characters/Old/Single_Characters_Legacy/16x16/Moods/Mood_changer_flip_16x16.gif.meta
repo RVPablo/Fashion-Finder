@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mood_changer_flip_16x16_0: -6901513811939698388
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
