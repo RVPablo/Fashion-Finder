@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 890
       height: 613
-    spriteID: cbd5d307281329f4b9d773f0551907f2
+    spriteID: 57fc0ba2cc23c2e45adc25db728e811b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 625
       width: 890
       height: 613
-    spriteID: cab1965df30bc54409ebe6701e10049c
+    spriteID: 1572bae81a55e194cab82e03930bef8a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1246
       width: 890
       height: 613
-    spriteID: 3f55994681f4d13499e9342d6305ba02
+    spriteID: f7586e2ca67fc834fb2322600c66fef0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 4
       width: 890
       height: 613
-    spriteID: 07efb3b2e914fab4d9a4047f9cc2d8c2
+    spriteID: 1e1a95702e89ed74ea6f3ad78a9f9006
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 625
       width: 890
       height: 613
-    spriteID: cb360dcd7bac0fc4599c840ace1990af
+    spriteID: f763d1cb89d85be41b68c509eeac032b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -244,7 +244,7 @@ ScriptedImporter:
         y: 22
         width: 890
         height: 613
-      spriteId: cbd5d307281329f4b9d773f0551907f2
+      spriteId: 57fc0ba2cc23c2e45adc25db728e811b
     - name: Accessory_17_Medical_Mask_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -253,7 +253,7 @@ ScriptedImporter:
         y: 22
         width: 890
         height: 613
-      spriteId: cab1965df30bc54409ebe6701e10049c
+      spriteId: 1572bae81a55e194cab82e03930bef8a
     - name: Accessory_17_Medical_Mask_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -262,7 +262,7 @@ ScriptedImporter:
         y: 22
         width: 890
         height: 613
-      spriteId: 3f55994681f4d13499e9342d6305ba02
+      spriteId: f7586e2ca67fc834fb2322600c66fef0
     - name: Accessory_17_Medical_Mask_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -271,7 +271,7 @@ ScriptedImporter:
         y: 22
         width: 890
         height: 613
-      spriteId: 07efb3b2e914fab4d9a4047f9cc2d8c2
+      spriteId: 1e1a95702e89ed74ea6f3ad78a9f9006
     - name: Accessory_17_Medical_Mask_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -280,7 +280,7 @@ ScriptedImporter:
         y: 22
         width: 890
         height: 613
-      spriteId: cb360dcd7bac0fc4599c840ace1990af
+      spriteId: f763d1cb89d85be41b68c509eeac032b
     linkedCells: []
     parentIndex: -1
   platformSettings: []

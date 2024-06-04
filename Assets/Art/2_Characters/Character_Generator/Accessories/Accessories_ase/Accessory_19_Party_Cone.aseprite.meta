@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 892
       height: 625
-    spriteID: f92845828cf3c2b4f8b1f61cf27b6f19
+    spriteID: f0c7a38c6428b6642bd7722d7c344ef4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 637
       width: 892
       height: 625
-    spriteID: 32e2e00696984c741b2cc634dc810a49
+    spriteID: 46181e836308b98408c888d69728baf1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1270
       width: 892
       height: 625
-    spriteID: 440ba1d1991ebbd418caf89f1f0f0487
+    spriteID: 2695b86531c4bdd40b47aff12c6575c4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 4
       width: 892
       height: 625
-    spriteID: d8008a1f8b5261246bd98664a3268937
+    spriteID: c9f8432110718ff49a83f59ae4ad7816
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -223,7 +223,7 @@ ScriptedImporter:
         y: 30
         width: 892
         height: 625
-      spriteId: f92845828cf3c2b4f8b1f61cf27b6f19
+      spriteId: f0c7a38c6428b6642bd7722d7c344ef4
     - name: Accessory_19_Party_Cone_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -232,7 +232,7 @@ ScriptedImporter:
         y: 30
         width: 892
         height: 625
-      spriteId: 32e2e00696984c741b2cc634dc810a49
+      spriteId: 46181e836308b98408c888d69728baf1
     - name: Accessory_19_Party_Cone_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -241,7 +241,7 @@ ScriptedImporter:
         y: 30
         width: 892
         height: 625
-      spriteId: 440ba1d1991ebbd418caf89f1f0f0487
+      spriteId: 2695b86531c4bdd40b47aff12c6575c4
     - name: Accessory_19_Party_Cone_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -250,7 +250,7 @@ ScriptedImporter:
         y: 30
         width: 892
         height: 625
-      spriteId: d8008a1f8b5261246bd98664a3268937
+      spriteId: c9f8432110718ff49a83f59ae4ad7816
     linkedCells: []
     parentIndex: -1
   platformSettings: []

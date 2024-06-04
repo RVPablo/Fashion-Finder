@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 896
       height: 630
-    spriteID: b0bf8229a82458241bfd92374488cc9b
+    spriteID: 09db4906476073042890d602b9d37bcd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 642
       width: 896
       height: 630
-    spriteID: 33246e4fc33a78943830de67a89e97c4
+    spriteID: bfec8fb91093b374bbaf94b18f25d8c7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1280
       width: 896
       height: 630
-    spriteID: 4cff9456884133942b20a78dd9c2f6d3
+    spriteID: e2c9d174f86b0694189d97a691230e8a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 4
       width: 896
       height: 630
-    spriteID: 476815ef5aa9730428ef30a2d6b38aba
+    spriteID: 0a19ff845a50eef43ab80a64cbfd3b3b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -223,7 +223,7 @@ ScriptedImporter:
         y: 19
         width: 896
         height: 630
-      spriteId: b0bf8229a82458241bfd92374488cc9b
+      spriteId: 09db4906476073042890d602b9d37bcd
     - name: Accessory_01_Ladybug_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -232,7 +232,7 @@ ScriptedImporter:
         y: 19
         width: 896
         height: 630
-      spriteId: 33246e4fc33a78943830de67a89e97c4
+      spriteId: bfec8fb91093b374bbaf94b18f25d8c7
     - name: Accessory_01_Ladybug_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -241,7 +241,7 @@ ScriptedImporter:
         y: 19
         width: 896
         height: 630
-      spriteId: 4cff9456884133942b20a78dd9c2f6d3
+      spriteId: e2c9d174f86b0694189d97a691230e8a
     - name: Accessory_01_Ladybug_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -250,7 +250,7 @@ ScriptedImporter:
         y: 19
         width: 896
         height: 630
-      spriteId: 476815ef5aa9730428ef30a2d6b38aba
+      spriteId: 0a19ff845a50eef43ab80a64cbfd3b3b
     linkedCells: []
     parentIndex: -1
   platformSettings: []

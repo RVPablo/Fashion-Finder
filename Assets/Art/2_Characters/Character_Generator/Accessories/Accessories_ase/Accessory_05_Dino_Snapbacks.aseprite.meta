@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 895
       height: 628
-    spriteID: 5fe1e43d343ba0946b2143fa64a3515d
+    spriteID: eade7c9c6984c5448873e4258caca0a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 640
       width: 895
       height: 628
-    spriteID: a1896cc1e474254488822d24aeef1ccb
+    spriteID: 8feb24bf0f3197e438ec3b038dd23df5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1276
       width: 895
       height: 628
-    spriteID: 06efce7f79f149344b0a208dd2840607
+    spriteID: e16977181ed892644b71bdfc869cfed8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +202,7 @@ ScriptedImporter:
         y: 21
         width: 895
         height: 628
-      spriteId: 5fe1e43d343ba0946b2143fa64a3515d
+      spriteId: eade7c9c6984c5448873e4258caca0a5
     - name: Accessory_05_Dino_Snapbacks_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -211,7 +211,7 @@ ScriptedImporter:
         y: 21
         width: 895
         height: 628
-      spriteId: a1896cc1e474254488822d24aeef1ccb
+      spriteId: 8feb24bf0f3197e438ec3b038dd23df5
     - name: Accessory_05_Dino_Snapbacks_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -220,7 +220,7 @@ ScriptedImporter:
         y: 21
         width: 895
         height: 628
-      spriteId: 06efce7f79f149344b0a208dd2840607
+      spriteId: e16977181ed892644b71bdfc869cfed8
     linkedCells: []
     parentIndex: -1
   platformSettings: []

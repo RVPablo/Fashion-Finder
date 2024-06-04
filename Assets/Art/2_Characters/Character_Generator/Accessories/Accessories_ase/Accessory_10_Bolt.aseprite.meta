@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 886
       height: 618
-    spriteID: 2b456644db6cd004086034270104272a
+    spriteID: e06dfd119ce321e42b4f9a43d3af504e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 630
       width: 886
       height: 618
-    spriteID: cf664b01222243541a0734fd8e1991d5
+    spriteID: 5f22761c6161b9f448dfc7fa5173e76d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1256
       width: 886
       height: 618
-    spriteID: 5b5dcc339ec5f9c4a9154da535d70a01
+    spriteID: b53576c1effb58441b05e16384fbc9b5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +202,7 @@ ScriptedImporter:
         y: 31
         width: 886
         height: 618
-      spriteId: 2b456644db6cd004086034270104272a
+      spriteId: e06dfd119ce321e42b4f9a43d3af504e
     - name: Accessory_10_Bolt_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -211,7 +211,7 @@ ScriptedImporter:
         y: 31
         width: 886
         height: 618
-      spriteId: cf664b01222243541a0734fd8e1991d5
+      spriteId: 5f22761c6161b9f448dfc7fa5173e76d
     - name: Accessory_10_Bolt_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -220,7 +220,7 @@ ScriptedImporter:
         y: 31
         width: 886
         height: 618
-      spriteId: 5b5dcc339ec5f9c4a9154da535d70a01
+      spriteId: b53576c1effb58441b05e16384fbc9b5
     linkedCells: []
     parentIndex: -1
   platformSettings: []

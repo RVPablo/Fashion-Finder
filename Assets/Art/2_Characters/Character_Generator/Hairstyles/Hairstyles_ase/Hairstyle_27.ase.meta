@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 896
       height: 625
-    spriteID: aa48ac8ef86725a4b84478058489d4d5
+    spriteID: 11a0c20c828e9d64cba09e7c1f916be8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 637
       width: 896
       height: 625
-    spriteID: ac35821c4930042448945e01602af370
+    spriteID: 10c2eddabd260824ba421412c7536625
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1270
       width: 896
       height: 625
-    spriteID: a107e5c0a472df04aa06847545fa7b40
+    spriteID: 9ffab9786d2f11846ab8f99df8ddf886
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 4
       width: 896
       height: 625
-    spriteID: 5be54a6d58e51244dbd3b6e481373f24
+    spriteID: cfb331cd1114aaa45acece03b4226563
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 637
       width: 896
       height: 625
-    spriteID: 4e39b2d6ebc818a4aa96ae19a92264d4
+    spriteID: d668e75f9417fd54fad629e4adbb9e02
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -239,7 +239,7 @@ ScriptedImporter:
       y: 1270
       width: 896
       height: 625
-    spriteID: cbda186d638870045b36e3002081e860
+    spriteID: 46e5e246fef2f534083a1824642a238a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -265,7 +265,7 @@ ScriptedImporter:
         y: 21
         width: 896
         height: 625
-      spriteId: aa48ac8ef86725a4b84478058489d4d5
+      spriteId: 11a0c20c828e9d64cba09e7c1f916be8
     - name: Hairstyle_27_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -274,7 +274,7 @@ ScriptedImporter:
         y: 21
         width: 896
         height: 625
-      spriteId: ac35821c4930042448945e01602af370
+      spriteId: 10c2eddabd260824ba421412c7536625
     - name: Hairstyle_27_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -283,7 +283,7 @@ ScriptedImporter:
         y: 21
         width: 896
         height: 625
-      spriteId: a107e5c0a472df04aa06847545fa7b40
+      spriteId: 9ffab9786d2f11846ab8f99df8ddf886
     - name: Hairstyle_27_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -292,7 +292,7 @@ ScriptedImporter:
         y: 21
         width: 896
         height: 625
-      spriteId: 5be54a6d58e51244dbd3b6e481373f24
+      spriteId: cfb331cd1114aaa45acece03b4226563
     - name: Hairstyle_27_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
@@ -301,7 +301,7 @@ ScriptedImporter:
         y: 21
         width: 896
         height: 625
-      spriteId: 4e39b2d6ebc818a4aa96ae19a92264d4
+      spriteId: d668e75f9417fd54fad629e4adbb9e02
     - name: Hairstyle_27_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
@@ -310,7 +310,7 @@ ScriptedImporter:
         y: 21
         width: 896
         height: 625
-      spriteId: cbda186d638870045b36e3002081e860
+      spriteId: 46e5e246fef2f534083a1824642a238a
     linkedCells: []
     parentIndex: -1
   platformSettings: []

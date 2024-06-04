@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 896
       height: 622
-    spriteID: 8c43e54583245ae4d823b0becaf7d06f
+    spriteID: 64a4c19cc37d0c84cb683a34cae07edf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 634
       width: 896
       height: 622
-    spriteID: 28f96412877309041b98041dc8049d4b
+    spriteID: 1a4e43a05e325e7479cacc1f934f0df9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1264
       width: 896
       height: 622
-    spriteID: e46ab28696f4cf2478d548b3dde47a08
+    spriteID: b7b6fb7dfe00ae144a51cef9054290ad
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +202,7 @@ ScriptedImporter:
         y: 27
         width: 896
         height: 622
-      spriteId: 8c43e54583245ae4d823b0becaf7d06f
+      spriteId: 64a4c19cc37d0c84cb683a34cae07edf
     - name: Accessory_08_Detective_Hat_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -211,7 +211,7 @@ ScriptedImporter:
         y: 27
         width: 896
         height: 622
-      spriteId: 28f96412877309041b98041dc8049d4b
+      spriteId: 1a4e43a05e325e7479cacc1f934f0df9
     - name: Accessory_08_Detective_Hat_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -220,7 +220,7 @@ ScriptedImporter:
         y: 27
         width: 896
         height: 622
-      spriteId: e46ab28696f4cf2478d548b3dde47a08
+      spriteId: b7b6fb7dfe00ae144a51cef9054290ad
     linkedCells: []
     parentIndex: -1
   platformSettings: []

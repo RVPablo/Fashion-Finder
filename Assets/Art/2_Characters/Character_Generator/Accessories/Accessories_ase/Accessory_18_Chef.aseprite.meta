@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 893
       height: 626
-    spriteID: 4ac373615431c264eae681882173f92f
+    spriteID: 192ccc89b7ce80a4592502a73436c842
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 638
       width: 893
       height: 626
-    spriteID: e33cde3224cf06b48a77e1ed0ccecb21
+    spriteID: e04dbf2af1c51d6498ae166f74fbbe5f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1272
       width: 893
       height: 626
-    spriteID: ac380c6f5c9bbf444afa934a25a051da
+    spriteID: 4bc4d7520efc4eb4b81ab38e06ba7cb5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +202,7 @@ ScriptedImporter:
         y: 29
         width: 893
         height: 626
-      spriteId: 4ac373615431c264eae681882173f92f
+      spriteId: 192ccc89b7ce80a4592502a73436c842
     - name: Accessory_18_Chef_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -211,7 +211,7 @@ ScriptedImporter:
         y: 29
         width: 893
         height: 626
-      spriteId: e33cde3224cf06b48a77e1ed0ccecb21
+      spriteId: e04dbf2af1c51d6498ae166f74fbbe5f
     - name: Accessory_18_Chef_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -220,7 +220,7 @@ ScriptedImporter:
         y: 29
         width: 893
         height: 626
-      spriteId: ac380c6f5c9bbf444afa934a25a051da
+      spriteId: 4bc4d7520efc4eb4b81ab38e06ba7cb5
     linkedCells: []
     parentIndex: -1
   platformSettings: []

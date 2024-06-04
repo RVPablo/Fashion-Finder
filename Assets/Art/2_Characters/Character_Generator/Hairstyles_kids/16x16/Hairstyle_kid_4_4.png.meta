@@ -1,0 +1,1623 @@
+fileFormatVersion: 2
+guid: c96abef5d918e8f48a02fd26f47d0551
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4282308381834279211
+    second: Hairstyle_kid_4_4_0
+  - first:
+      213: -7562201492290975873
+    second: Hairstyle_kid_4_4_1
+  - first:
+      213: 451356994971755094
+    second: Hairstyle_kid_4_4_2
+  - first:
+      213: 3426558155252454276
+    second: Hairstyle_kid_4_4_3
+  - first:
+      213: 670692920168894783
+    second: Hairstyle_kid_4_4_4
+  - first:
+      213: 4732295357825278133
+    second: Hairstyle_kid_4_4_5
+  - first:
+      213: -1169312618694034790
+    second: Hairstyle_kid_4_4_6
+  - first:
+      213: 2008105785777422686
+    second: Hairstyle_kid_4_4_7
+  - first:
+      213: 1762949191413495773
+    second: Hairstyle_kid_4_4_8
+  - first:
+      213: 1824182375012006949
+    second: Hairstyle_kid_4_4_9
+  - first:
+      213: 8679591747463393845
+    second: Hairstyle_kid_4_4_10
+  - first:
+      213: 2146759103191911797
+    second: Hairstyle_kid_4_4_11
+  - first:
+      213: 6765718489321411606
+    second: Hairstyle_kid_4_4_12
+  - first:
+      213: -2240403270001559527
+    second: Hairstyle_kid_4_4_13
+  - first:
+      213: 3863205558548830357
+    second: Hairstyle_kid_4_4_14
+  - first:
+      213: -4229266088434872401
+    second: Hairstyle_kid_4_4_15
+  - first:
+      213: -3808693486886763022
+    second: Hairstyle_kid_4_4_16
+  - first:
+      213: -151349689177612243
+    second: Hairstyle_kid_4_4_17
+  - first:
+      213: 179130562841205721
+    second: Hairstyle_kid_4_4_18
+  - first:
+      213: 4286815746955896627
+    second: Hairstyle_kid_4_4_19
+  - first:
+      213: 2792785073319724206
+    second: Hairstyle_kid_4_4_20
+  - first:
+      213: -8001068761850599446
+    second: Hairstyle_kid_4_4_21
+  - first:
+      213: 419601162591482073
+    second: Hairstyle_kid_4_4_22
+  - first:
+      213: -2626046669768592831
+    second: Hairstyle_kid_4_4_23
+  - first:
+      213: 7777405479641947854
+    second: Hairstyle_kid_4_4_24
+  - first:
+      213: -7964527258547837802
+    second: Hairstyle_kid_4_4_25
+  - first:
+      213: 6101810006051424406
+    second: Hairstyle_kid_4_4_26
+  - first:
+      213: 8510149900657396472
+    second: Hairstyle_kid_4_4_27
+  - first:
+      213: 3251131445494258384
+    second: Hairstyle_kid_4_4_28
+  - first:
+      213: 5285169869281315162
+    second: Hairstyle_kid_4_4_29
+  - first:
+      213: 2387281720279164645
+    second: Hairstyle_kid_4_4_30
+  - first:
+      213: 5299287188492457249
+    second: Hairstyle_kid_4_4_31
+  - first:
+      213: -6541048122201890628
+    second: Hairstyle_kid_4_4_32
+  - first:
+      213: 1051162027088243126
+    second: Hairstyle_kid_4_4_33
+  - first:
+      213: 8844801759748381576
+    second: Hairstyle_kid_4_4_34
+  - first:
+      213: -969259784326812827
+    second: Hairstyle_kid_4_4_35
+  - first:
+      213: 5769076225948576200
+    second: Hairstyle_kid_4_4_36
+  - first:
+      213: 6649609856066099609
+    second: Hairstyle_kid_4_4_37
+  - first:
+      213: 3938354677473199219
+    second: Hairstyle_kid_4_4_38
+  - first:
+      213: -2153804730153548387
+    second: Hairstyle_kid_4_4_39
+  - first:
+      213: 7408747296636390560
+    second: Hairstyle_kid_4_4_40
+  - first:
+      213: 1983147922705407226
+    second: Hairstyle_kid_4_4_41
+  - first:
+      213: 3473376559857203479
+    second: Hairstyle_kid_4_4_42
+  - first:
+      213: 6081279428999299351
+    second: Hairstyle_kid_4_4_43
+  - first:
+      213: 7751159416554159310
+    second: Hairstyle_kid_4_4_44
+  - first:
+      213: -8871438680577380908
+    second: Hairstyle_kid_4_4_45
+  - first:
+      213: -2178613881585917170
+    second: Hairstyle_kid_4_4_46
+  - first:
+      213: 3409012051584564049
+    second: Hairstyle_kid_4_4_47
+  - first:
+      213: -8959879100736740835
+    second: Hairstyle_kid_4_4_48
+  - first:
+      213: -8510976232318066341
+    second: Hairstyle_kid_4_4_49
+  - first:
+      213: -8566599678793796651
+    second: Hairstyle_kid_4_4_50
+  - first:
+      213: -6140812230073027098
+    second: Hairstyle_kid_4_4_51
+  - first:
+      213: 371600116587742944
+    second: Hairstyle_kid_4_4_52
+  - first:
+      213: 5966162407748608049
+    second: Hairstyle_kid_4_4_53
+  - first:
+      213: 4478108245765857510
+    second: Hairstyle_kid_4_4_54
+  - first:
+      213: -1200312453932592961
+    second: Hairstyle_kid_4_4_55
+  - first:
+      213: -4836910083242403379
+    second: Hairstyle_kid_4_4_56
+  - first:
+      213: -1068075778483341032
+    second: Hairstyle_kid_4_4_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29f8edd8c0dd6b30800000000000000
+      internalID: 4282308381834279211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 101
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77411c1fc9ad0790800000000000000
+      internalID: -7562201492290975873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 102
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ed28abca834600800000000000000
+      internalID: 451356994971755094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4835a0ecc749d8f20800000000000000
+      internalID: 3426558155252454276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31590c48a7ce4900800000000000000
+      internalID: 670692920168894783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0e76f1e8d7ca140800000000000000
+      internalID: 4732295357825278133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3c5b5e54c5cfe0800000000000000
+      internalID: -1169312618694034790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 71
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e518ba0a2993edb10800000000000000
+      internalID: 2008105785777422686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd77347f2f0477810800000000000000
+      internalID: 1762949191413495773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c7e14843cc05910800000000000000
+      internalID: 1824182375012006949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 69
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b7f635ba147870800000000000000
+      internalID: 8679591747463393845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 69
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d0714c702dacd10800000000000000
+      internalID: 2146759103191911797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 70
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6149b46ae19a4ed50800000000000000
+      internalID: 6765718489321411606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 70
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918fee9981d78e0e0800000000000000
+      internalID: -2240403270001559527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 69
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5981e93ccfcdc9530800000000000000
+      internalID: 3863205558548830357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 69
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafcb3276e0ae45c0800000000000000
+      internalID: -4229266088434872401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f545c7f37dc42bc0800000000000000
+      internalID: -3808693486886763022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20e3b3724c46edf0800000000000000
+      internalID: -151349689177612243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 71
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd09e3c466c7200800000000000000
+      internalID: 179130562841205721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 71
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3376bd69534dd7b30800000000000000
+      internalID: 4286815746955896627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea44c353a37f1c620800000000000000
+      internalID: 2792785073319724206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 70
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7ab624a5e76f090800000000000000
+      internalID: -8001068761850599446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 71
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03b93c809b2d500800000000000000
+      internalID: 419601162591482073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 71
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14278dc97786e8bd0800000000000000
+      internalID: -2626046669768592831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 72
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece1c38c315eeeb60800000000000000
+      internalID: 7777405479641947854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694275ef7a0587190800000000000000
+      internalID: -7964527258547837802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 71
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6988e992fdbfda450800000000000000
+      internalID: 6101810006051424406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 71
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa8206fe302a1670800000000000000
+      internalID: 8510149900657396472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da99ce03d65e1d20800000000000000
+      internalID: 3251131445494258384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 39
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a594c1c7ef1b85940800000000000000
+      internalID: 5285169869281315162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6e5048314512120800000000000000
+      internalID: 2387281720279164645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1251fd00f99da8940800000000000000
+      internalID: 5299287188492457249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ab6983678935a0800000000000000
+      internalID: -6541048122201890628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b969f95b4a769e00800000000000000
+      internalID: 1051162027088243126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 37
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b5d86b65c0fba70800000000000000
+      internalID: 8844801759748381576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be02c8c5f7c82f0800000000000000
+      internalID: -969259784326812827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 37
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9e0d9f240ef0050800000000000000
+      internalID: 5769076225948576200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 37
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99991c5dee8284c50800000000000000
+      internalID: 6649609856066099609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 38
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c94e76b8d7a630800000000000000
+      internalID: 3938354677473199219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9544af52062c12e0800000000000000
+      internalID: -2153804730153548387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acc5aeb96821d660800000000000000
+      internalID: 7408747296636390560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 39
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcd8ed478e858b10800000000000000
+      internalID: 1983147922705407226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719f4751499e33030800000000000000
+      internalID: 3473376559857203479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c461bb6b056450800000000000000
+      internalID: 6081279428999299351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 39
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc72250c66a19b60800000000000000
+      internalID: 7751159416554159310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_45
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 38
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd668dd58152e480800000000000000
+      internalID: -8871438680577380908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 40
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03265da73204c1e0800000000000000
+      internalID: -2178613881585917170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_47
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 39
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b39b1366e3f4f20800000000000000
+      internalID: 3409012051584564049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e32aed6d18a380800000000000000
+      internalID: -8959879100736740835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 40
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51a3e4b530f2e980800000000000000
+      internalID: -8510976232318066341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 39
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3358cdaf25d1980800000000000000
+      internalID: -8566599678793796651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 40
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e57f1aefc377caa0800000000000000
+      internalID: -6140812230073027098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c4b35650382500800000000000000
+      internalID: 371600116587742944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130252a89111cc250800000000000000
+      internalID: 5966162407748608049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e02f9639bf652e30800000000000000
+      internalID: 4478108245765857510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0ded3ce22a75fe0800000000000000
+      internalID: -1200312453932592961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9d4d508e7dfdcb0800000000000000
+      internalID: -4836910083242403379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hairstyle_kid_4_4_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8193d460dbe6d21f0800000000000000
+      internalID: -1068075778483341032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hairstyle_kid_4_48x48_5_0: -2529104602392748
+      Hairstyle_kid_4_48x48_5_1: 6096711089316749134
+      Hairstyle_kid_4_48x48_5_10: -8245127934057884842
+      Hairstyle_kid_4_48x48_5_11: 3937154395946401237
+      Hairstyle_kid_4_48x48_5_12: -3965774258092226679
+      Hairstyle_kid_4_48x48_5_13: 3606745026920465175
+      Hairstyle_kid_4_48x48_5_14: 7244340326033075191
+      Hairstyle_kid_4_48x48_5_15: -4175533129528446080
+      Hairstyle_kid_4_48x48_5_16: 6683391197928434917
+      Hairstyle_kid_4_48x48_5_17: -1755890236143194083
+      Hairstyle_kid_4_48x48_5_18: 1389493959182479457
+      Hairstyle_kid_4_48x48_5_19: 6436543382970464535
+      Hairstyle_kid_4_48x48_5_2: -1270563834491446777
+      Hairstyle_kid_4_48x48_5_20: -9049314586409409757
+      Hairstyle_kid_4_48x48_5_21: 3197983784160220359
+      Hairstyle_kid_4_48x48_5_22: 1617452021818655882
+      Hairstyle_kid_4_48x48_5_23: 1437049478461034841
+      Hairstyle_kid_4_48x48_5_24: -7289616225017940963
+      Hairstyle_kid_4_48x48_5_25: 4960158219809773028
+      Hairstyle_kid_4_48x48_5_26: -2415504180438702258
+      Hairstyle_kid_4_48x48_5_27: 5540717047461411338
+      Hairstyle_kid_4_48x48_5_28: -3618835756539782061
+      Hairstyle_kid_4_48x48_5_29: -8837664210459480893
+      Hairstyle_kid_4_48x48_5_3: 1257493403104128794
+      Hairstyle_kid_4_48x48_5_30: 7656762704499395995
+      Hairstyle_kid_4_48x48_5_31: -1449170500569513308
+      Hairstyle_kid_4_48x48_5_32: 4266037910017293438
+      Hairstyle_kid_4_48x48_5_33: 5115170000227717813
+      Hairstyle_kid_4_48x48_5_34: 2374027051807406146
+      Hairstyle_kid_4_48x48_5_35: -3112358709244453244
+      Hairstyle_kid_4_48x48_5_36: -2134166207180217427
+      Hairstyle_kid_4_48x48_5_37: -4970969037605033407
+      Hairstyle_kid_4_48x48_5_38: 2359153397742122785
+      Hairstyle_kid_4_48x48_5_39: -8346426122884901026
+      Hairstyle_kid_4_48x48_5_4: 5999956748378584965
+      Hairstyle_kid_4_48x48_5_40: -10638804847399934
+      Hairstyle_kid_4_48x48_5_41: 5718525370606513470
+      Hairstyle_kid_4_48x48_5_42: 1919938002992246106
+      Hairstyle_kid_4_48x48_5_43: 5090912678403722644
+      Hairstyle_kid_4_48x48_5_44: 4809268621941488618
+      Hairstyle_kid_4_48x48_5_45: 3368859129913811699
+      Hairstyle_kid_4_48x48_5_46: 8439341660508316653
+      Hairstyle_kid_4_48x48_5_47: 2811729168276352550
+      Hairstyle_kid_4_48x48_5_48: 8955375750837520289
+      Hairstyle_kid_4_48x48_5_49: 5242869010922818434
+      Hairstyle_kid_4_48x48_5_5: -8581213902932107079
+      Hairstyle_kid_4_48x48_5_50: -5834868584071033375
+      Hairstyle_kid_4_48x48_5_51: -3352022150539192137
+      Hairstyle_kid_4_48x48_5_52: -2582338565331645462
+      Hairstyle_kid_4_48x48_5_53: -5904133498066356051
+      Hairstyle_kid_4_48x48_5_54: -1576497381952460894
+      Hairstyle_kid_4_48x48_5_55: -1464275246768851562
+      Hairstyle_kid_4_48x48_5_56: 6000193631853211263
+      Hairstyle_kid_4_48x48_5_57: -5268243190823109989
+      Hairstyle_kid_4_48x48_5_6: 7964252056088798331
+      Hairstyle_kid_4_48x48_5_7: -151457012621753411
+      Hairstyle_kid_4_48x48_5_8: 4785768359283372028
+      Hairstyle_kid_4_48x48_5_9: -8872881549585949506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 894
       height: 624
-    spriteID: b54cca68642640e4d9eab84d50271ab5
+    spriteID: 413d5ec09632e134aaa2fb37b7eb7891
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 636
       width: 894
       height: 624
-    spriteID: 7956ca21e933bf34fb6cb69365687623
+    spriteID: 92306c25074353147918e5e08d9ad794
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 1268
       width: 894
       height: 624
-    spriteID: 71001fe54a64d7e47a2d71e41a773e47
+    spriteID: faf04497f15b7e24db6aa6f0961d8503
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -202,7 +202,7 @@ ScriptedImporter:
         y: 23
         width: 894
         height: 624
-      spriteId: b54cca68642640e4d9eab84d50271ab5
+      spriteId: 413d5ec09632e134aaa2fb37b7eb7891
     - name: Accessory_07_Bataclava_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -211,7 +211,7 @@ ScriptedImporter:
         y: 23
         width: 894
         height: 624
-      spriteId: 7956ca21e933bf34fb6cb69365687623
+      spriteId: 92306c25074353147918e5e08d9ad794
     - name: Accessory_07_Bataclava_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -220,7 +220,7 @@ ScriptedImporter:
         y: 23
         width: 894
         height: 624
-      spriteId: 71001fe54a64d7e47a2d71e41a773e47
+      spriteId: faf04497f15b7e24db6aa6f0961d8503
     linkedCells: []
     parentIndex: -1
   platformSettings: []

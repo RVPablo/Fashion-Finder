@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 4
       width: 347
       height: 73
-    spriteID: dcf1050064b8edb49931817617fabc83
+    spriteID: ae1ef3432789c5b4e908ed16f4706b8d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -155,7 +155,7 @@ ScriptedImporter:
       y: 85
       width: 347
       height: 73
-    spriteID: f749aec4692a2384f9ad89e93bb6348f
+    spriteID: dc18ad94b971a9849af015b10cf67aaa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 166
       width: 347
       height: 73
-    spriteID: 89b13b3ec3217b247bebacc5f5a1cf60
+    spriteID: 1bb1a1b53fd4b6042b5c3bb5f3b8f817
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -197,7 +197,7 @@ ScriptedImporter:
       y: 247
       width: 347
       height: 73
-    spriteID: 69387445964863043aad42a22c4e833b
+    spriteID: 4c1c37ac6053e6d41b269cdda703348d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -223,7 +223,7 @@ ScriptedImporter:
         y: 2
         width: 347
         height: 73
-      spriteId: dcf1050064b8edb49931817617fabc83
+      spriteId: ae1ef3432789c5b4e908ed16f4706b8d
     - name: Hand_1_Magnifying_glass_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
@@ -232,7 +232,7 @@ ScriptedImporter:
         y: 2
         width: 347
         height: 73
-      spriteId: f749aec4692a2384f9ad89e93bb6348f
+      spriteId: dc18ad94b971a9849af015b10cf67aaa
     - name: Hand_1_Magnifying_glass_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
@@ -241,7 +241,7 @@ ScriptedImporter:
         y: 2
         width: 347
         height: 73
-      spriteId: 89b13b3ec3217b247bebacc5f5a1cf60
+      spriteId: 1bb1a1b53fd4b6042b5c3bb5f3b8f817
     - name: Hand_1_Magnifying_glass_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
@@ -250,7 +250,7 @@ ScriptedImporter:
         y: 2
         width: 347
         height: 73
-      spriteId: 69387445964863043aad42a22c4e833b
+      spriteId: 4c1c37ac6053e6d41b269cdda703348d
     linkedCells: []
     parentIndex: -1
   platformSettings: []
