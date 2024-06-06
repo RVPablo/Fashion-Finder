@@ -5421,7 +5421,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 72187371}
-  duration: 0
+  duration: 25
   sceneName: 
 --- !u!114 &1460749823
 MonoBehaviour:
