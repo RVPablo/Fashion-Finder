@@ -7,18 +7,11 @@ public class FadeInOutScreen : MonoBehaviour
 
     public float speed = 1;
 
-    private Image fadeOutScreen;
+    public Image fadeOutScreen;
     private Color fadeColor = Color.black;
 
     public bool IsFadeOn;
 
-
-
-
-    public void Awake()
-    {
-        fadeOutScreen = this.GetComponentInChildren<Image>(true);
-    }
 
 
     public void ShowScreenNoDelay()

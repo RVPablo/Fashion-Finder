@@ -13,4 +13,8 @@ MonoBehaviour:
   m_Name: Scene3
   m_EditorClassIdentifier: 
   isSet: 0
-  _clothes: []
+  _clothes:
+  - {fileID: 11400000, guid: 432fd655f83e01a43a4af58009610a32, type: 2}
+  - {fileID: 11400000, guid: e132e4c882a11d642be303744ede2330, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: e132e4c882a11d642be303744ede2330, type: 2}

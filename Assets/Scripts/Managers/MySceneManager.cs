@@ -23,10 +23,6 @@ public class MySceneManager : MonoBehaviour
     private void Awake()
     {
         fadeInOutScreen = FindObjectOfType<FadeInOutScreen>();
-    }
-
-    private void Start()
-    {
         StartCoroutine(Setup());
     }
 
@@ -34,27 +30,30 @@ public class MySceneManager : MonoBehaviour
     {
         fadeInOutScreen.ShowScreenNoDelay();
 
-        if (!sceneData.isSet)
+        if (clothSpawns.Length > 0)
         {
-            sceneData._clothes = new Clothes_Base[clothSpawns.Length];
-            for (int i = 0; i < clothSpawns.Length; i++)
+            if (!sceneData.isSet)
             {
-                clothSpawns[i].SetRandomBase();
-                sceneData._clothes[i] = clothSpawns[i].cloth.Base;
+                sceneData._clothes = new Clothes_Base[clothSpawns.Length];
+                for (int i = 0; i < clothSpawns.Length; i++)
+                {
+                    clothSpawns[i].SetRandomBase();
+                    sceneData._clothes[i] = clothSpawns[i].cloth.Base;
+                }
+                sceneData.isSet = true;
             }
-            sceneData.isSet = true;
-        }
-        else
-        {
-            for (int i = 0; i < clothSpawns.Length; i++)
+            else
             {
-                clothSpawns[i].SetBase(sceneData._clothes[i]);
+                for (int i = 0; i < clothSpawns.Length; i++)
+                {
+                    clothSpawns[i].SetBase(sceneData._clothes[i]);
+                }
             }
         }
 
         if (player.playerData.newPos == "" || player.playerData.newPos == null)
         {
-            var pos = startPos[Random.Range(0, startPos.Length-1)];
+            var pos = startPos[Random.Range(0, startPos.Length)];
             player.transform.position = pos.transform.position;
 
             yield return new WaitForSeconds(0.5f);
@@ -69,6 +68,7 @@ public class MySceneManager : MonoBehaviour
             {
                 if (spawnPoint[i].name == player.playerData.newPos)
                 {
+                    //player.movePoint.transform.position = spawnPoint[i].transform.position;
                     player.transform.position = spawnPoint[i].transform.position;
                 }
             }

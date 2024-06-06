@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d0bf314fab7f8644892f9cdabc61cf3, type: 3}
   m_Name: Data
   m_EditorClassIdentifier: 
+  isGameStarted: 0
   newPos: 
   clothes:
   - {fileID: 0}
