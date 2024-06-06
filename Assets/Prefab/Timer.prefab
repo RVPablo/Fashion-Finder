@@ -271,5 +271,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 679296420298202941}
-  duration: 25
-  sceneName: 
+  duration: 60
+  sceneName: End

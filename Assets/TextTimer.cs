@@ -5,22 +5,13 @@ using UnityEngine.SceneManagement;
 public class TextTimer : MonoBehaviour
 {
     public Text timerText;
-    public float duration = 10f;
+    public float duration = 60f;
     public string sceneName = "End";  // Assurez-vous que le nom est correct
 
     private float timeRemaining;
     private bool timerRunning = false;
 
     public float TimeRemaining { get { return timeRemaining; } }
-
-    void Start()
-    {
-        if (timerText != null)
-        {
-            timeRemaining = duration;
-            timerRunning = true;
-        }
-    }
 
     void Update()
     {
@@ -42,7 +33,19 @@ public class TextTimer : MonoBehaviour
         }
     }
 
-    void UpdateTimerText(float time)
+    public void Stop()
+    {
+        timerRunning = false;
+    }
+
+    public void Resume()
+    {
+        timeRemaining = duration;
+        UpdateTimerText(duration);
+        timerRunning=true;
+    }
+
+    public void UpdateTimerText(float time)
     {
         int minutes = Mathf.FloorToInt(time / 60);
         int seconds = Mathf.FloorToInt(time % 60);
@@ -51,6 +54,6 @@ public class TextTimer : MonoBehaviour
 
     void ChangeScene()
     {
-        SceneManager.LoadScene("End");  
+        SceneManager.LoadScene(sceneName);  
     }
 }

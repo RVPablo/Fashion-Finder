@@ -15,6 +15,7 @@ public class MySceneManager : MonoBehaviour
     public SpawnPoint[] spawnPoint;
     public ClothSpawn[] clothSpawns;
     public GridBasedMovement player;
+    public TextTimer timer;
 
     [SerializeField] SceneData sceneData;
 
@@ -54,12 +55,15 @@ public class MySceneManager : MonoBehaviour
         if (player.playerData.newPos == "" || player.playerData.newPos == null)
         {
             var pos = startPos[Random.Range(0, startPos.Length)];
+            player.playerData.timeLeft = 60f;
+            timer.UpdateTimerText(60f);
             player.transform.position = pos.transform.position;
 
             yield return new WaitForSeconds(0.5f);
 
             yield return fadeInOutScreen.FadeOut();
             isAnimating = false;
+            timer.Resume();
         }
         else
         {
@@ -68,17 +72,19 @@ public class MySceneManager : MonoBehaviour
             {
                 if (spawnPoint[i].name == player.playerData.newPos)
                 {
-                    //player.movePoint.transform.position = spawnPoint[i].transform.position;
                     player.transform.position = spawnPoint[i].transform.position;
                 }
             }
 
+            timer.duration = player.playerData.timeLeft;
+            timer.UpdateTimerText(timer.duration);
             yield return new WaitForSeconds(0.5f);
 
             yield return fadeInOutScreen.FadeOut();
             isAnimating = false;
             player.playerData.newPos = "";
             player.canMove = true;
+            timer.Resume();
         }
 
     }
@@ -86,6 +92,8 @@ public class MySceneManager : MonoBehaviour
     public IEnumerator LoadScene(string sceneName)
     {
         isAnimating = true;
+        timer.Stop();
+        player.playerData.timeLeft = timer.TimeRemaining;
         yield return fadeInOutScreen.FadeIn();
 
         yield return new WaitUntil(() => fadeInOutScreen.IsFadeOn);
