@@ -1,10 +1,12 @@
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TextTimer : MonoBehaviour
 {
     public Text timerText;
-    public float duration = 10f; 
+    public float duration = 10f;
+    public string sceneName = "End";  // Assurez-vous que le nom est correct
 
     private float timeRemaining;
     private bool timerRunning = false;
@@ -33,6 +35,7 @@ public class TextTimer : MonoBehaviour
                 timeRemaining = 0;
                 timerRunning = false;
                 UpdateTimerText(timeRemaining);
+                ChangeScene();
             }
         }
     }
@@ -42,5 +45,10 @@ public class TextTimer : MonoBehaviour
         int minutes = Mathf.FloorToInt(time / 60);
         int seconds = Mathf.FloorToInt(time % 60);
         timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
+    }
+
+    void ChangeScene()
+    {
+        SceneManager.LoadScene("End");  
     }
 }
