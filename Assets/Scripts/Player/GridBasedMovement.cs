@@ -32,7 +32,6 @@ public class GridBasedMovement : MonoBehaviour
         playerControls = new InputSystem_Actions();
     }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         movePoint.parent = null;
