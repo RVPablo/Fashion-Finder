@@ -11,6 +11,8 @@ public class TextTimer : MonoBehaviour
     private float timeRemaining;
     private bool timerRunning = false;
 
+    public float TimeRemaining { get { return timeRemaining; } }
+
     void Start()
     {
         if (timerText != null)
