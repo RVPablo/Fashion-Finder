@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Birthday_Party_Singles_31_0: -9045154422273839191
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

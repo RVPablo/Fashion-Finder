@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roki_phone_48x48_0: -4520280005738357812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

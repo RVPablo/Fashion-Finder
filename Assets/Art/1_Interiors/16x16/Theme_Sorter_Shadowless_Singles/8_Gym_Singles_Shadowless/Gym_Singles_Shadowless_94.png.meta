@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gym_Singles_Shadowless_94_0: -5240996392765617913
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Japanese_Interiors_Singles_90_0: -6767132595653793174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

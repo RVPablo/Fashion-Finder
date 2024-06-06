@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bathroom_Black_Shadow_Singles_140_0: -1472074220286766845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

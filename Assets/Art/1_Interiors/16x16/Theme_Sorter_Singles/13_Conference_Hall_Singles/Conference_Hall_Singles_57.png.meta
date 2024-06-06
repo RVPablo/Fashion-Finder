@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_Hall_Singles_57_0: -930266085329696082
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

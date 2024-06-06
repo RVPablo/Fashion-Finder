@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ice_Cream_Shop_Singles_Shadowless_66_0: -6988226979993733048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

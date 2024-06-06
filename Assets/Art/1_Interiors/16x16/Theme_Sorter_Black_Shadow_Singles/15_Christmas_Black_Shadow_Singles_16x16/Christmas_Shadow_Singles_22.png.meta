@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Christmas_Shadow_Singles_22_0: 8088652695757171215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

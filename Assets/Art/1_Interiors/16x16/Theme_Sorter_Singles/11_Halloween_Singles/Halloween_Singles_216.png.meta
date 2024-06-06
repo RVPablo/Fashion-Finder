@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Halloween_Singles_216_0: 6780612559397499818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

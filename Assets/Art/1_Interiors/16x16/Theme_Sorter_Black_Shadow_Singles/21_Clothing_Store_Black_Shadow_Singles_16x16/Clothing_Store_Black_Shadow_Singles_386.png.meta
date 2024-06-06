@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Clothing_Store_Black_Shadow_Singles_386_0: -973815712835709889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

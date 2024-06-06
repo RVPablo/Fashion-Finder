@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jail_Singles_276_0: -7030690934410978298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

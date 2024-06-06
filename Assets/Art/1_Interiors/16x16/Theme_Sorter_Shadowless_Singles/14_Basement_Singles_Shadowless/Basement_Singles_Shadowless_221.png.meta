@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Basement_Singles_Shadowless_221_0: 2284554803918843380
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

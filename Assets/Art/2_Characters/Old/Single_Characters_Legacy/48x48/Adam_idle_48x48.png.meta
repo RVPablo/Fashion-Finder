@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Adam_idle_48x48_0: -4000505234502777961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

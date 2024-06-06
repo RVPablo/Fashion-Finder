@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_kitchen_oven_48x48_0: 5771858172298706101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

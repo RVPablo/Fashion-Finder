@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_shopping_cart_red_full3_up_48x48_0: -532220368671302834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

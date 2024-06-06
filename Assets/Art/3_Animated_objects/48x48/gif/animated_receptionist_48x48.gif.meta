@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_receptionist_48x48_0: 1887372419083747740
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

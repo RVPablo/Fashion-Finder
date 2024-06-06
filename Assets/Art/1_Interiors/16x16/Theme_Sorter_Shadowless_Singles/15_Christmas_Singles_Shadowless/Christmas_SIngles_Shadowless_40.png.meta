@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Christmas_SIngles_Shadowless_40_0: -1327959780794274066
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

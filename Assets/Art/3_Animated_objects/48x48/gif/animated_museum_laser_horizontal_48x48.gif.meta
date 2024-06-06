@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_museum_laser_horizontal_48x48_0: -4409199606573777148
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

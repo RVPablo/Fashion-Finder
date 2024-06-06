@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gym_Shadow_Singles_132_0: -6786338646661474157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Television_and_Film_Studio_Black_Shadow_Singles_1_0: 7816024346503285376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

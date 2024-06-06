@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Basement_Singles_75_0: -8379526745445129831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

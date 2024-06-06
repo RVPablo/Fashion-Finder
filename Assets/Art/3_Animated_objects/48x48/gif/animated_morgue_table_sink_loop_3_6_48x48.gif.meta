@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_morgue_table_sink_loop_3_6_48x48_0: -2934120720444081779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

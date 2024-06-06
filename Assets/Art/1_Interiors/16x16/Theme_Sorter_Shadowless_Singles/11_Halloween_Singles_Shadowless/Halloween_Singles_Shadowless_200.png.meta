@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Halloween_Singles_Shadowless_200_0: -7622652489976125402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

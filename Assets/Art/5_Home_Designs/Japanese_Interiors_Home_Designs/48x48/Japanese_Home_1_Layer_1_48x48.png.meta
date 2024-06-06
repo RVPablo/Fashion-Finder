@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Japanese_Home_1_Layer_1_48x48_0: 1703533955429021326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

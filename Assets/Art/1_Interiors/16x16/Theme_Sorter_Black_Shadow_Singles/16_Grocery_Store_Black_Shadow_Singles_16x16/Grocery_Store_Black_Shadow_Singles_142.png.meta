@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grocery_Store_Black_Shadow_Singles_142_0: -6375455938070263441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

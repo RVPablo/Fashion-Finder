@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Music_and_Sport_Singles_Shadowless_91_0: -1996285478817643384
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

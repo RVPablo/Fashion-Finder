@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bruce_reading_48x48_0: 4998106819726964317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

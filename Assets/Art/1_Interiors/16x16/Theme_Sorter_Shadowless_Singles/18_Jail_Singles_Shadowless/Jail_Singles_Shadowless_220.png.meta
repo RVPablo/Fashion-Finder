@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jail_Singles_Shadowless_220_0: 7338807325025672602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

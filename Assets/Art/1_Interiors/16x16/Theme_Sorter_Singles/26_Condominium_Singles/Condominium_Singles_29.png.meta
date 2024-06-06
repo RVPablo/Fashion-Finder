@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Condominium_Singles_29_0: 4615491935932191402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

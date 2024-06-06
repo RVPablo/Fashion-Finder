@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_morgue_freezer_door_corpse_2_48x48_0: 6230124896480069500
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

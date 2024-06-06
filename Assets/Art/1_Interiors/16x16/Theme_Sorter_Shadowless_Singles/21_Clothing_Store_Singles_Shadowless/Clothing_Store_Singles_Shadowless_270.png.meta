@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Clothing_Store_Singles_Shadowless_270_0: -7468155669520680951
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

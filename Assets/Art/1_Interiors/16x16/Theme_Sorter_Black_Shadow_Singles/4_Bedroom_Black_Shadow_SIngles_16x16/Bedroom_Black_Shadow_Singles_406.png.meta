@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bedroom_Black_Shadow_Singles_406_0: -2160906039814351267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

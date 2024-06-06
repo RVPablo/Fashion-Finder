@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Music_and_Sport_Black_Shadow_Singles_186_0: -6198323188281286352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

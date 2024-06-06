@@ -132,7 +132,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Condominium_Singles_Shadowless_78_0: 4667534649168810579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
