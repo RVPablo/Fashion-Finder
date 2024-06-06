@@ -11,8 +11,8 @@ TagManager:
   - WhatStopsMovement
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - WhatIsInteractable
   - 
   - 
   - 
@@ -40,6 +40,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4242888967
+    locked: 0
+  - name: Player
+    uniqueID: 2534095269
+    locked: 0
+  - name: Foreground
+    uniqueID: 3868381411
     locked: 0
   m_RenderingLayers:
   - Default

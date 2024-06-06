@@ -3,7 +3,14 @@ using UnityEngine;
 [CreateAssetMenu]
 public class PlayerData : ScriptableObject
 {
+    public bool isGameStarted = false;
     public string newPos;
-    public Sprite torso;
-    public Sprite legs;
+    public Clothes_Base[] clothes = new Clothes_Base[4];
+
+    public void Reset()
+    {
+        isGameStarted = true;
+        newPos = string.Empty;
+        clothes = new Clothes_Base[4];
+    }
 }

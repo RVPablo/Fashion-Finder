@@ -13,7 +13,10 @@ public class MySceneManager : MonoBehaviour
 
     public StartPoint[] startPos;
     public SpawnPoint[] spawnPoint;
+    public ClothSpawn[] clothSpawns;
     public GridBasedMovement player;
+
+    [SerializeField] SceneData sceneData;
 
     private FadeInOutScreen fadeInOutScreen;
 
@@ -30,6 +33,24 @@ public class MySceneManager : MonoBehaviour
     public IEnumerator Setup()
     {
         fadeInOutScreen.ShowScreenNoDelay();
+
+        if (!sceneData.isSet)
+        {
+            sceneData._clothes = new Clothes_Base[clothSpawns.Length];
+            for (int i = 0; i < clothSpawns.Length; i++)
+            {
+                clothSpawns[i].SetRandomBase();
+                sceneData._clothes[i] = clothSpawns[i].cloth.Base;
+            }
+            sceneData.isSet = true;
+        }
+        else
+        {
+            for (int i = 0; i < clothSpawns.Length; i++)
+            {
+                clothSpawns[i].SetBase(sceneData._clothes[i]);
+            }
+        }
 
         if (player.playerData.newPos == "" || player.playerData.newPos == null)
         {
@@ -68,6 +89,11 @@ public class MySceneManager : MonoBehaviour
         yield return fadeInOutScreen.FadeIn();
 
         yield return new WaitUntil(() => fadeInOutScreen.IsFadeOn);
+
+        for (int i = 0; i < clothSpawns.Length; i++)
+        {
+            sceneData._clothes[i] = clothSpawns[i].cloth.Base;
+        }
 
         SceneManager.LoadSceneAsync(sceneName);
     }

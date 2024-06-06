@@ -48,8 +48,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f437d53d747b39841a0224d63e663dd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: 
-  spawnName: 
+  SceneName: TestMap2
+  spawnName: Test2
 --- !u!61 &3637717645501402052
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -94,7 +94,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.9, y: 1.9}
+  m_Size: {x: 0.9, y: 4.9}
   m_EdgeRadius: 0
 --- !u!50 &5221505814494255690
 Rigidbody2D:
@@ -194,7 +194,7 @@ Transform:
   m_GameObject: {fileID: 5437293692054987304}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1, y: 0.5, z: 0}
+  m_LocalPosition: {x: -1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -212,4 +212,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a8b9e62846c09a478537bbb033af7ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: 
+  name: Test1

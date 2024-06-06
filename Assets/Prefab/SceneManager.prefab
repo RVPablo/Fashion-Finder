@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4325443473866770033}
   - component: {fileID: 7343342737822934046}
+  - component: {fileID: 1565735354633562953}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -45,6 +46,35 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isAnimating: 1
-  startPos: []
-  spawnPoint: []
+  startPos:
+  - {fileID: 0}
+  - {fileID: 0}
+  spawnPoint:
+  - {fileID: 0}
+  clothSpawns:
+  - {fileID: 0}
+  - {fileID: 0}
   player: {fileID: 0}
+  sceneData: {fileID: 11400000, guid: 131508d7cce96f340aa1efcb35f5d8fb, type: 2}
+--- !u!114 &1565735354633562953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1147912810640678923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad59847549a4838449a6b282210917f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  i_Pressed: 0
+  interact:
+    m_Name: Interact
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: cb464a2f-a605-4231-bf1d-46328edeb146
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0

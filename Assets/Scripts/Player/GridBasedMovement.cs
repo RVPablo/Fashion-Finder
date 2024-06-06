@@ -14,6 +14,7 @@ public class GridBasedMovement : MonoBehaviour
     public Transform movePoint;
 
     public LayerMask whatStopsMovement;
+    public LayerMask whatIsInteractable;
 
     public Animator anim;
 
@@ -51,12 +52,51 @@ public class GridBasedMovement : MonoBehaviour
 
     public void Update()
     {
+        MovePlayer();
+        if (InputEvents.Instance.i_Pressed)
+            PlayerInteract();
+    }
+
+    private void PlayerInteract()
+    {
+        InputEvents.Instance.i_Pressed = false;
+        var actualDirection = new Vector2();
+        actualDirection.x = anim.GetFloat("DirectionX");
+        actualDirection.y = anim.GetFloat("DirectionY");
+
+        var collider = Physics2D.OverlapCircle(movePoint.position, 0.45f, whatIsInteractable);
+        if (collider != null)
+        {
+            collider.GetComponent<Interactable>()?.Interact(playerData);
+        }
+
+        if (Mathf.Abs(actualDirection.x) > 0)
+        {
+            collider = Physics2D.OverlapCircle(movePoint.position + new Vector3(actualDirection.x, 0, 0), 0.45f, whatIsInteractable);
+            if (collider != null)
+            {
+                collider.GetComponent<Interactable>()?.Interact(playerData);
+            }
+        }
+
+        if (Mathf.Abs(actualDirection.y) > 0)
+        {
+            collider = Physics2D.OverlapCircle(movePoint.position + new Vector3(0, actualDirection.y, 0), 0.45f, whatIsInteractable);
+            if (collider != null)
+            {
+                collider.GetComponent<Interactable>()?.Interact(playerData);
+            }
+        }
+    }
+
+    private void MovePlayer()
+    {
         transform.position = Vector3.MoveTowards(transform.position, movePoint.position, moveSpeed * Time.deltaTime);
 
         direction = move.ReadValue<Vector2>();
-        if(direction.x != 0 && direction.y != 0)
+        if (direction.x != 0 && direction.y != 0)
         {
-            if(direction.x > 0)
+            if (direction.x > 0)
             {
                 direction.x = 1;
             }
@@ -67,7 +107,7 @@ public class GridBasedMovement : MonoBehaviour
             direction.y = 0;
         }
 
-        if(canMove)
+        if (canMove)
         {
             if (Vector3.Distance(transform.position, movePoint.position) <= 0.05f)
             {
@@ -111,12 +151,5 @@ public class GridBasedMovement : MonoBehaviour
         {
             if (isWalking) isWalking = false; anim.SetBool("IsWalking", false);
         }
-    }
-
-    public void ResetData()
-    {
-        playerData.newPos = null;
-        playerData.legs = null;
-        playerData.torso = null;
     }
 }

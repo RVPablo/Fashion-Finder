@@ -478,6 +478,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2056460366}
     - target: {fileID: 7343342737822934046, guid: bbba1b4d09b70624a9b3c26920f27859, type: 3}
+      propertyPath: sceneData
+      value: 
+      objectReference: {fileID: 11400000, guid: e0465ccb59a4bac43a5439272250b274, type: 2}
+    - target: {fileID: 7343342737822934046, guid: bbba1b4d09b70624a9b3c26920f27859, type: 3}
       propertyPath: startPos.Array.size
       value: 2
       objectReference: {fileID: 0}
