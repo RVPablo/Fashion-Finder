@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: formal-soulier
   m_EditorClassIdentifier: 
-  rarity: 0
-  name: 
+  rarity: 3
+  name: soulier
   style: 0
-  type: 0
-  sprite: {fileID: 0}
+  type: 3
+  sprite: {fileID: 1415729346, guid: f33286913f5c1a944a07b8807c8f5f53, type: 3}

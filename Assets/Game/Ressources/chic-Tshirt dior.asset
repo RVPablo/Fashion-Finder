@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: chic-Tshirt dior
   m_EditorClassIdentifier: 
-  rarity: 0
-  name: dior shirt
+  rarity: 3
+  name: tshirt dior
   style: 1
   type: 1
-  sprite: {fileID: 0}
+  sprite: {fileID: 186302523, guid: c1d275f9686d67945bd625cf7f1c8425, type: 3}

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: unformal-short de bain
   m_EditorClassIdentifier: 
-  rarity: 0
-  name: 
-  style: 0
-  type: 0
-  sprite: {fileID: 0}
+  rarity: 1
+  name: short de bain
+  style: 2
+  type: 2
+  sprite: {fileID: 781615103, guid: a218150c475ab624c8cd8585ca3e4dcd, type: 3}

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: formal-pantalon costume
   m_EditorClassIdentifier: 
-  rarity: 0
+  rarity: 2
   name: pantalon costume
   style: 0
   type: 2
-  sprite: {fileID: 0}
+  sprite: {fileID: 631542652, guid: a8870bd9280bf504f982917b305633db, type: 3}

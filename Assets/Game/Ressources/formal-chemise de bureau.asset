@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: formal-chemise de bureau
   m_EditorClassIdentifier: 
-  rarity: 0
-  name: 
+  rarity: 2
+  name: 'chemise de bureau '
   style: 0
-  type: 0
-  sprite: {fileID: 0}
+  type: 1
+  sprite: {fileID: -1474337894, guid: 1c5b3e4c4162c5c45891b5e8302d6316, type: 3}

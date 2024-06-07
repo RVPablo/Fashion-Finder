@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: formal-chemise costume
   m_EditorClassIdentifier: 
-  rarity: 0
+  rarity: 2
   name: chemise costume
   style: 0
   type: 1
-  sprite: {fileID: 0}
+  sprite: {fileID: 275169486, guid: 3ed94a3f3b802ab43a3ace7b976a11ab, type: 3}

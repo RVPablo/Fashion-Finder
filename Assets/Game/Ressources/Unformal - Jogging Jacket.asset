@@ -16,3 +16,4 @@ MonoBehaviour:
   name: Veste de Jogging
   style: 0
   type: 1
+  sprite: {fileID: 282099591, guid: 1d0033b98e86b464787e325314ab465a, type: 3}
