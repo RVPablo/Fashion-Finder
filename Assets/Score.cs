@@ -42,6 +42,7 @@ public class Score : MonoBehaviour
         }
 
         UpdateScoreText();
+        UpdateScoreData();
         //Debug.Log("Le score est de :" + Scoreduboug + "/ Le nombre de vetements est:" + nbVet);
     }
 
@@ -50,6 +51,15 @@ public class Score : MonoBehaviour
         if (scoreText != null)
         {
             scoreText.text = "Score: " + Scoreduboug.ToString();
+        }
+    }
+
+
+    void UpdateScoreData()
+    {
+        if (Scoreduboug != null)
+        {
+            PlayerData.Score = Scoreduboug;
         }
     }
 }
