@@ -12,6 +12,7 @@ public class MainMenuManager : MonoBehaviour
 
     public AudioMixer audioMixer;
     [SerializeField] Slider slider;
+    [SerializeField] Toggle toggle;
 
     public void GetRandomScene()
     {
@@ -31,6 +32,7 @@ public class MainMenuManager : MonoBehaviour
     {
         audioMixer.SetFloat("volume", playerData.volume);
         slider.value = playerData.volume;
+        toggle.isOn = playerData.IsCensored;
     }
 
     public void QuitGame()
@@ -43,5 +45,10 @@ public class MainMenuManager : MonoBehaviour
     {
         audioMixer.SetFloat("volume", volume);
         playerData.volume = volume;
+    }
+
+    public void SetCensorship(Toggle toggle)
+    {
+        playerData.IsCensored = toggle.isOn;
     }
 }

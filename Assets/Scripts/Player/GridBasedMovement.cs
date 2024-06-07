@@ -35,6 +35,7 @@ public class GridBasedMovement : MonoBehaviour
     void Start()
     {
         movePoint.parent = null;
+        anim.SetBool("IsCensored", playerData.IsCensored);
     }
 
     private void OnEnable()
