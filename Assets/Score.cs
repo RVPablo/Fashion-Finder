@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class Score : MonoBehaviour
 {
     public PlayerData PlayerData;
-    public ClothStyles Theme = ClothStyles.Chic;
+    public ClothStyles Theme;
     public float Scoreduboug;
     public int nbVet;
 
@@ -19,6 +19,7 @@ public class Score : MonoBehaviour
     {
         nbVet = 0;
         Scoreduboug = 0;
+        Theme = PlayerData.Theme;
 
         for (int i = 0; i < PlayerData.clothes.Length; i++)
         {

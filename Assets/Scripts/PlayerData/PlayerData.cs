@@ -9,6 +9,7 @@ public class PlayerData : ScriptableObject
     public float Score;
     public float timeLeft;
     public float volume;
+    public ClothStyles Theme;
 
     public void Reset()
     {
