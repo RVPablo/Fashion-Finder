@@ -37,7 +37,7 @@ public class Score : MonoBehaviour
                 {
                     Scoreduboug += 1;
                 }
-                Debug.Log("rareté:" + PlayerData.clothes[i].Rarity);
+               // Debug.Log("rareté:" + PlayerData.clothes[i].Rarity);
             }
         }
 
