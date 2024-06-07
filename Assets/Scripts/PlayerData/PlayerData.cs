@@ -10,6 +10,7 @@ public class PlayerData : ScriptableObject
     public float timeLeft;
     public float volume;
     public bool IsCensored;
+    public ClothStyles Theme;
 
     public void Reset()
     {
