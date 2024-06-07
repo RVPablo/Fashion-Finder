@@ -116,6 +116,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
+  fadeOutScreen: {fileID: 3990123982926370948}
   IsFadeOn: 0
 --- !u!1 &5994910122870916864
 GameObject:
