@@ -6,7 +6,7 @@ public class TextTimer : MonoBehaviour
 {
     public Text timerText;
     public float duration = 60f;
-    public string sceneName = "End";  // Assurez-vous que le nom est correct
+    public string sceneName;  // Assurez-vous que le nom est correct
 
     private float timeRemaining;
     private bool timerRunning = false;

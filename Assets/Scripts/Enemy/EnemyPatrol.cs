@@ -39,7 +39,6 @@ public class EnemyPatrol : MonoBehaviour
     void UpdateAnimation(Vector3 direction)
     {
         direction.Normalize();
-        Debug.Log(direction);
 
         animator.SetFloat("Speed", direction.magnitude);
 
