@@ -16,3 +16,4 @@ MonoBehaviour:
   name: Jean
   style: 0
   type: 2
+  sprite: {fileID: 180581464, guid: 4f1558c7565e11e4590b964fb54b46f2, type: 3}

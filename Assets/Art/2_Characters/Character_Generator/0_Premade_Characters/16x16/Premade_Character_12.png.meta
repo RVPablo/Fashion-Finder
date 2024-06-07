@@ -2460,160 +2460,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premade_Character_12_95
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 512
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ca010818c511c44aadf33e59d38402a
-      internalID: 267787552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Premade_Character_12_96
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 512
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c48a208626539c48a5df30258275b26
-      internalID: -1821244514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Premade_Character_12_97
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 512
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f5061c15a493134483413f41e267662
-      internalID: 533800858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Premade_Character_12_98
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 512
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e2bf4dd1365945498e0e4ad0d51c09a
-      internalID: -298713633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Premade_Character_12_99
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 512
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 979d57a090f5a9448ad2cc9992edd12c
-      internalID: -940158675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Premade_Character_12_100
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 512
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99a89a1185772cd47b6b7d12655a456c
-      internalID: -1807874144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Premade_Character_12_101
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 512
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98328ef15d2676e48926daa9aed9ec3a
-      internalID: 2011106738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Premade_Character_12_102
       rect:
         serializedVersion: 2
@@ -2746,11 +2592,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premade_Character_12_108
+      name: Sit - 0
       rect:
         serializedVersion: 2
         x: 96
-        y: 488
+        y: 497
         width: 16
         height: 24
       alignment: 0
@@ -2768,11 +2614,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premade_Character_12_109
+      name: Sit - 1
       rect:
         serializedVersion: 2
         x: 112
-        y: 488
+        y: 497
         width: 16
         height: 24
       alignment: 0
@@ -2790,11 +2636,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premade_Character_12_110
+      name: Sit - 2
       rect:
         serializedVersion: 2
         x: 128
-        y: 488
+        y: 497
         width: 16
         height: 24
       alignment: 0
@@ -2812,11 +2658,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premade_Character_12_111
+      name: Sit - 3
       rect:
         serializedVersion: 2
         x: 144
-        y: 488
+        y: 497
         width: 16
         height: 24
       alignment: 0
@@ -2834,11 +2680,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premade_Character_12_112
+      name: Sit - 4
       rect:
         serializedVersion: 2
         x: 160
-        y: 488
+        y: 497
         width: 16
         height: 24
       alignment: 0
@@ -2856,11 +2702,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premade_Character_12_113
+      name: Sit - 5
       rect:
         serializedVersion: 2
         x: 176
-        y: 488
+        y: 497
         width: 16
         height: 24
       alignment: 0
@@ -17291,13 +17137,7 @@ TextureImporter:
       Premade_Character_12_105: -433676949
       Premade_Character_12_106: 1672061804
       Premade_Character_12_107: -1562058736
-      Premade_Character_12_108: -1202324209
-      Premade_Character_12_109: 1718060178
       Premade_Character_12_11: -1841522190
-      Premade_Character_12_110: -669157004
-      Premade_Character_12_111: -1193495302
-      Premade_Character_12_112: 790356341
-      Premade_Character_12_113: -1579204428
       Premade_Character_12_114: -191276436
       Premade_Character_12_115: 1568086572
       Premade_Character_12_116: -724873749
@@ -18022,6 +17862,12 @@ TextureImporter:
       Run - 7: 44620707
       Run - 8: -57357328
       Run - 9: 573254167
+      Sit - 0: -1202324209
+      Sit - 1: 1718060178
+      Sit - 2: -669157004
+      Sit - 3: -1193495302
+      Sit - 4: 790356341
+      Sit - 5: -1579204428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

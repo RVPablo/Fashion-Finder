@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: chic-mocassin
   m_EditorClassIdentifier: 
-  rarity: 0
-  name: 
-  style: 0
-  type: 0
-  sprite: {fileID: 0}
+  rarity: 2
+  name: mocassin
+  style: 1
+  type: 3
+  sprite: {fileID: 1303562965, guid: 3ed94a3f3b802ab43a3ace7b976a11ab, type: 3}

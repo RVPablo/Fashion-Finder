@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: unformal-sandale
   m_EditorClassIdentifier: 
   rarity: 0
-  name: 
-  style: 0
-  type: 0
-  sprite: {fileID: 0}
+  name: sandale
+  style: 2
+  type: 3
+  sprite: {fileID: 77151556, guid: bd9514c66da7395498de0f55179aa4fb, type: 3}

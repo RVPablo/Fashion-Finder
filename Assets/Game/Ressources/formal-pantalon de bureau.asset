@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: formal-pantalon de bureau
   m_EditorClassIdentifier: 
-  rarity: 0
-  name: 
+  rarity: 2
+  name: pantalon de bureau
   style: 0
-  type: 0
-  sprite: {fileID: 0}
+  type: 2
+  sprite: {fileID: 1940443949, guid: c1d275f9686d67945bd625cf7f1c8425, type: 3}

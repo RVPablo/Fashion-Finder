@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: unformal -  debardeur
   m_EditorClassIdentifier: 
-  rarity: 0
+  rarity: 1
   name: debardeur
   style: 2
   type: 1
-  sprite: {fileID: 0}
+  sprite: {fileID: -775204172, guid: a41ee94173978594094d1ea98930d1f4, type: 3}

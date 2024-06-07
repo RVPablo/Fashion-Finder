@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8087bdb69a56fcf4c93f67024c0015b1, type: 3}
   m_Name: unformal-sweet adidas
   m_EditorClassIdentifier: 
-  rarity: 0
-  name: 
-  style: 0
-  type: 0
-  sprite: {fileID: 0}
+  rarity: 1
+  name: sweet adidas
+  style: 2
+  type: 1
+  sprite: {fileID: 1811730161, guid: 05f2f060e63d2b441b247bbbdbb038ba, type: 3}
