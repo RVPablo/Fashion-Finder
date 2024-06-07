@@ -6397,11 +6397,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 995812979}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cce994ca366639940862c09da51144fe, type: 3}
+  m_Script: {fileID: 11500000, guid: 89fddff63e350bd4b9d0326b6ed82c4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerData: {fileID: 11400000, guid: 986c525f66283b24a81a238c3cb8ecc8, type: 2}
-  Theme: 1
+  Theme: 0
   Scoreduboug: 0
   nbVet: 0
   scoreText: {fileID: 327921883}
