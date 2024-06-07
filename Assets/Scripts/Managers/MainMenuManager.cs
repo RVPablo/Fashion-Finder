@@ -3,19 +3,20 @@ using UnityEngine.Audio;
 using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-using System;
 
 public class MainMenuManager : MonoBehaviour
 {
     public string[] allScenes;
     public SceneData[] sceneData;
     public PlayerData playerData;
+
     public AudioMixer audioMixer;
     [SerializeField] Slider slider;
+    [SerializeField] Toggle toggle;
 
     public void GetRandomScene()
     {
-        var choosenStartScene = allScenes[UnityEngine.Random.Range(0, allScenes.Length)];
+        var choosenStartScene = allScenes[Random.Range(0, allScenes.Length)];
 
         foreach (var sceneData in sceneData)
         {
@@ -24,7 +25,6 @@ public class MainMenuManager : MonoBehaviour
 
         playerData.Reset();
 
-        RandomTheme(playerData);
         SceneManager.LoadSceneAsync(choosenStartScene);
     }
 
@@ -32,6 +32,7 @@ public class MainMenuManager : MonoBehaviour
     {
         audioMixer.SetFloat("volume", playerData.volume);
         slider.value = playerData.volume;
+        toggle.isOn = playerData.IsCensored;
     }
 
     public void QuitGame()
@@ -46,21 +47,8 @@ public class MainMenuManager : MonoBehaviour
         playerData.volume = volume;
     }
 
-    public void RandomTheme(PlayerData playerData)
+    public void SetCensorship(Toggle toggle)
     {
-        System.Random rand = new System.Random();
-
-        int randomNumber = rand.Next(1, 4);
-
-        if (randomNumber == 1)
-        {
-            playerData.Theme = ClothStyles.Chic;
-        } else if (randomNumber == 2)
-        {
-            playerData.Theme= ClothStyles.Formal;
-        } else if (randomNumber == 3)
-        {
-            playerData.Theme = ClothStyles.Unformal;
-        }
+        playerData.IsCensored = toggle.isOn;
     }
 }
